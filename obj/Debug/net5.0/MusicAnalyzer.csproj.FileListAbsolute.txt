@@ -1,0 +1,30 @@
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.csprojAssemblyReference.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.AssemblyInfoInputs.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.AssemblyInfo.cs
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.csproj.CoreCompileInputs.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/MusicAnalyzer.deps.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/MusicAnalyzer.runtimeconfig.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/MusicAnalyzer.runtimeconfig.dev.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/ref/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/bin/Debug/net5.0/MusicAnalyzer.pdb
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/ref/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.pdb
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/Module 12/MusicAnalyzer/obj/Debug/net5.0/MusicAnalyzer.genruntimeconfig.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/MusicAnalyzer.deps.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/MusicAnalyzer.runtimeconfig.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/MusicAnalyzer.runtimeconfig.dev.json
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/ref/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/bin/Debug/net5.0/MusicAnalyzer.pdb
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.csprojAssemblyReference.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.AssemblyInfoInputs.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.AssemblyInfo.cs
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.csproj.CoreCompileInputs.cache
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/ref/MusicAnalyzer.dll
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.pdb
+/Users/kennabogue/Documents/MIZZOU/INFO 2040/SalesAnalyzer/obj/Debug/net5.0/MusicAnalyzer.genruntimeconfig.cache

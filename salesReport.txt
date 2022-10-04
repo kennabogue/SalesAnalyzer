@@ -1,0 +1,146 @@
+SALES DATA ANALYZER REPORT
+----------
+
+1. The items sold to customers in Australia were:
+Stock Code: 22941 | Description: CHRISTMAS LIGHTS 10 REINDEER
+---------
+Stock Code: 21622 | Description: VINTAGE UNION JACK CUSHION COVER
+---------
+Stock Code: 21791 | Description: VINTAGE HEADS AND TAILS CARD GAME 
+---------
+Stock Code: 35004C | Description: SET OF 3 COLOURED  FLYING DUCKS
+---------
+Stock Code: 35004G | Description: SET OF 3 GOLD FLYING DUCKS
+---------
+Stock Code: 85014B | Description: RED RETROSPOT UMBRELLA
+---------
+Stock Code: 85014A | Description: BLACK/BLUE POLKADOT UMBRELLA
+---------
+Stock Code: 22193 | Description: RED DINER WALL CLOCK
+---------
+Stock Code: 22726 | Description: ALARM CLOCK BAKELIKE GREEN
+---------
+Stock Code: 22727 | Description: ALARM CLOCK BAKELIKE RED 
+---------
+Stock Code: 22192 | Description: BLUE DINER WALL CLOCK
+---------
+Stock Code: 22191 | Description: IVORY DINER WALL CLOCK
+---------
+Stock Code: 22195 | Description: LARGE HEART MEASURING SPOONS
+---------
+Stock Code: 22196 | Description: SMALL HEART MEASURING SPOONS
+---------
+Stock Code: 22567 | Description: 20 DOLLY PEGS RETROSPOT
+---------
+Stock Code: 22915 | Description: ASSORTED BOTTLE TOP  MAGNETS 
+---------
+Stock Code: 22926 | Description: IVORY GIANT GARDEN THERMOMETER
+---------
+Stock Code: 22953 | Description: BIRTHDAY PARTY CORDON BARRIER TAPE
+---------
+Stock Code: 21906 | Description: PHARMACIE FIRST AID TIN
+---------
+Stock Code: 22495 | Description: SET OF 2 ROUND TINS CAMEMBERT 
+---------
+Stock Code: 22555 | Description: PLASTERS IN TIN STRONGMAN
+---------
+Stock Code: 22557 | Description: PLASTERS IN TIN VINTAGE PAISLEY 
+---------
+Stock Code: 22333 | Description: RETROSPOT PARTY BAG + STICKER SET
+---------
+Stock Code: 22094 | Description: RED RETROSPOT TISSUE BOX
+---------
+Stock Code: 21217 | Description: RED RETROSPOT ROUND CAKE TINS
+---------
+Stock Code: 48138 | Description: DOORMAT UNION FLAG
+---------
+Stock Code: 79067 | Description: CORONA MEXICAN TRAY
+---------
+Stock Code: 20725 | Description: LUNCH BAG RED RETROSPOT
+---------
+Stock Code: 85099B | Description: JUMBO BAG RED RETROSPOT
+---------
+Stock Code: 22728 | Description: ALARM CLOCK BAKELIKE PINK
+---------
+Stock Code: 22196 | Description: SMALL HEART MEASURING SPOONS
+---------
+Stock Code: 22195 | Description: LARGE HEART MEASURING SPOONS
+---------
+Stock Code: 22219 | Description: LOVEBIRD HANGING DECORATION WHITE 
+---------
+Stock Code: 20685 | Description: DOORMAT RED RETROSPOT
+---------
+Stock Code: 48138 | Description: DOORMAT UNION FLAG
+---------
+
+2. Total individual sales: 1867
+
+3. Sales total for invoice number 536365: $139.12
+
+4. Total sales by country: 
+Country: Australia | Total Sales: $1005.1
+---------
+Country: Austria | Total Sales: $1262.14
+---------
+Country: Bahrain | Total Sales: $1467.88
+---------
+Country: Belgium | Total Sales: $3277.79
+---------
+Country: Channel Islands | Total Sales: $3641.32
+---------
+Country: Cyprus | Total Sales: $5232.14
+---------
+Country: Denmark | Total Sales: $6513.64
+---------
+Country: EIRE | Total Sales: $15543.59
+---------
+Country: Finland | Total Sales: $16436.39
+---------
+Country: France | Total Sales: $26011.75
+---------
+Country: Germany | Total Sales: $40574.54
+---------
+Country: Iceland | Total Sales: $41286.34
+---------
+Country: Israel | Total Sales: $41058.89
+---------
+Country: Italy | Total Sales: $41853.39
+---------
+Country: Japan | Total Sales: $49558.47
+---------
+Country: Lithuania | Total Sales: $51219.52
+---------
+Country: Netherlands | Total Sales: $60003.99
+---------
+Country: Norway | Total Sales: $63791.08
+---------
+Country: Poland | Total Sales: $64039.24
+---------
+Country: Portugal | Total Sales: $66419.38
+---------
+Country: Spain | Total Sales: $68263.11
+---------
+Country: Sweden | Total Sales: $70909.4
+---------
+Country: Switzerland | Total Sales: $72214.29
+---------
+Country: United Kingdom | Total Sales: $789337.06
+---------
+
+5. Customer that has spent the most: 11800
+
+6. Total sales for customer 15311: $2609.21
+
+7. 958 Hand Warmer Union Jack were sold.
+
+8. Total value of Hand Warmer Union Jack sales: $1946.56
+
+9. The product with the highest unit price is:
+Stock Code: AMAZONFEE | Description: AMAZON FEE
+---------
+
+10. The total sales were $789336.75.
+
+11. Invoice number with the highest sales: 539750
+
+12. Product with the most units sold: WORLD WAR 2 GLIDERS ASSTD DESIGNS
